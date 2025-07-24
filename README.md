@@ -60,7 +60,7 @@ This analysis covers the following real-world queries:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/countries-data-exploration-pandas-numpy.git
+git clone https://github.com/AdeenaRamzan/countries-data-exploration-pandas-numpy.git
 
 2. Navigate to the Project Folder
 cd countries-data-exploration-pandas-numpy
